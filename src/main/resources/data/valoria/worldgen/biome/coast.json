@@ -1,0 +1,101 @@
+{
+  "temperature": 0.8,
+  "downfall": 0.4,
+  "has_precipitation": false,
+  "effects": {
+    "sky_color": 1980488,
+    "fog_color": 2507703,
+    "water_color": 7422321,
+    "water_fog_color": 2561575,
+    "grass_color": 4470594,
+    "foliage_color": 11301619,
+    "mood_sound": {
+      "sound": "minecraft:ambient.nether_wastes.mood",
+      "tick_delay": 6700,
+      "block_search_extent": 8,
+      "offset": 2
+    },
+    "additions_sound": {
+      "sound": "minecraft:ambient.nether_wastes.additions",
+      "tick_chance": 0.0155
+    },
+    "music": {
+      "sound": "minecraft:music.nether.nether_wastes",
+      "max_delay": 24000,
+      "min_delay": 12000,
+      "replace_current_music": true
+    },
+    "particle": {
+      "options": {
+        "type": "minecraft:mycelium"
+      },
+      "probability": 0.025
+    }
+  },
+  "spawners": {
+    "ambient": [],
+    "axolotls": [],
+    "creature": [],
+    "misc": [],
+    "monster": [
+      {
+        "type": "valoria:corrupted_troll",
+        "weight": 1,
+        "minCount": 1,
+        "maxCount": 2
+      }
+    ],
+    "underground_water_creature": [],
+    "water_ambient": [],
+    "water_creature": []
+  },
+  "spawn_costs": {},
+  "carvers": {
+    "air": [
+      "minecraft:cave",
+      "minecraft:cave_extra_underground",
+      "minecraft:canyon"
+    ]
+  },
+  "features": [
+    [
+      "valoria:wicked_amethyst_ore",
+      "valoria:dormant_crystals",
+      "valoria:jade_ore_placed",
+      "valoria:pyratite_ore",
+      "valoria:pyratite_blob",
+      "valoria:blackstone",
+      "valoria:deep_marble",
+      "valoria:disk_void_sand",
+      "minecraft:underwater_magma"
+    ],
+    [
+      "valoria:lake_lava_underground",
+      "valoria:lake_lava_surface"
+    ],
+    [],
+    [
+      "valoria:cave_root",
+      "valoria:void_roots",
+      "valoria:soulflower",
+      "valoria:falseflower",
+      "valoria:falseflower_small",
+      "valoria:void_serpents",
+      "valoria:void_taint",
+      "valoria:abyssal_glowfern",
+      "valoria:violet_sprout",
+      "valoria:glow_violet_sprout",
+      "valoria:void_taint_lantern",
+      "valoria:patch_voidvine",
+      "valoria:tainted_roots",
+      "valoria:patch_voidthorn",
+      "valoria:patch_blighted_grass",
+      "valoria:patch_blighted_grass_2"
+    ],
+    [
+      "valoria:spring_water",
+      "valoria:spring_lava"
+    ],
+    []
+  ]
+}

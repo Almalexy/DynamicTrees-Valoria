@@ -1,0 +1,5 @@
+{
+    "primitive_soil": "valoria:void_taint",
+    "acceptable_soils": [ "dirt_like" ]
+  }
+

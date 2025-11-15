@@ -1,0 +1,8 @@
+{
+    "type": "scruffy",
+    "scruffy_leaf_chance": 0.66,
+    "scruffy_max_hydro": 1,
+    "primitive_leaves": "valoria:eldritch_leaves",
+    "cell_kit": "acacia",
+    "has_tick_particles": true
+  }

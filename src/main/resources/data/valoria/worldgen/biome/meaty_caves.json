@@ -1,0 +1,90 @@
+{
+  "temperature": 0.8,
+  "downfall": 0.4,
+  "has_precipitation": false,
+  "effects": {
+    "sky_color": 16744576,
+    "fog_color": 12386304,
+    "water_color": 12386304,
+    "water_fog_color": 12386304,
+    "grass_color": 12386304,
+    "foliage_color": 12386304,
+    "mood_sound": {
+      "sound": "minecraft:ambient.nether_wastes.mood",
+      "tick_delay": 6000,
+      "block_search_extent": 8,
+      "offset": 2
+    },
+    "music": {
+      "sound": "valoria:music.valoria.blood_pole",
+      "min_delay": 12000,
+      "max_delay": 24000,
+      "replace_current_music": false
+    }
+  },
+  "spawners": {
+    "ambient": [],
+    "axolotls": [],
+    "creature": [],
+    "misc": [],
+    "monster": [
+      {
+        "type": "valoria:corrupted",
+        "weight": 10,
+        "minCount": 1,
+        "maxCount": 2
+      }
+    ],
+    "underground_water_creature": [],
+    "water_ambient": [],
+    "water_creature": []
+  },
+  "spawn_costs": {},
+  "carvers": {
+    "air": [
+      "minecraft:cave",
+      "minecraft:cave_extra_underground",
+      "minecraft:canyon"
+    ]
+  },
+  "features": [
+    [],
+    [],
+    [
+      "valoria:valoria_monster_room",
+      "valoria:valoria_monster_room_deep"
+    ],
+    [],
+    [],
+    [
+      "valoria:flesh_remains_placed",
+      "valoria:wicked_amethyst_ore",
+      "valoria:dormant_crystals",
+      "valoria:pyratite_ore",
+      "valoria:pyratite_blob",
+      "valoria:blackstone",
+      "valoria:deep_marble",
+      "valoria:disk_void_sand"
+    ],
+    [
+      "valoria:blood_vines",
+      "valoria:void_roots",
+      "valoria:soulflower",
+      "valoria:falseflower",
+      "valoria:falseflower_small",
+      "valoria:void_taint",
+      "valoria:patch_voidvine",
+      "valoria:tainted_roots"
+    ],
+    [
+      "valoria:blood_vein",
+      "valoria:flesh_corruption"
+    ],
+    [],
+    [
+      "valoria:spring_water",
+      "valoria:spring_lava"
+    ],
+    []
+  ]
+}

@@ -1,0 +1,15 @@
+{
+    "multipart": [
+      {
+        "apply": {
+          "model": "valoria:block/void_veins"
+        }
+      },
+      {
+        "apply": {
+          "model": "dynamictrees:block/roots"
+        }
+      }
+    ]
+  }
+

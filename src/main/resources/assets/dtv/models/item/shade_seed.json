@@ -1,0 +1,7 @@
+{
+    "parent": "dynamictrees:item/standard_seed",
+    "textures": {
+      "layer0": "dtv:item/shade_seed"
+    }
+  }
+

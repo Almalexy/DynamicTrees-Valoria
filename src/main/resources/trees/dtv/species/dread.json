@@ -1,0 +1,44 @@
+{
+    "family": "dtv:dread",
+    "tapering": 0.2,
+    "signal_energy": 12.0,
+    "up_probability": 0,
+    "lowest_branch_height": 4,
+    "growth_rate": 0.7,
+    "has_leaves": false,
+    "leaves_properties": "dtv:dread",
+    "generate_seed": true,
+    "drop_seeds": true,
+    "generate_sapling": true,
+    "environment_factors": {
+      "#forge:is_cold": 0.75,
+      "#forge:is_hot": 0.9,
+      "#forge:is_dry": 0.5
+    },
+    "perfect_biomes": {
+      "name": ".*dread.*"
+    },
+    "primitive_sapling": "dtv:dread_sapling",
+    "primitive_soil": "valoria:void_taint",
+    "features": [
+      "bee_nest",
+      {
+        "name": "bottom_flare",
+        "properties": {
+          "scale": 2.5
+        }
+      },
+      "mound",
+      {
+        "name": "roots",
+        "properties": {
+          "min_trunk_radius": 8,
+          "scale_factor": 16
+        }
+      }
+    ],
+    "lang_overrides": {
+      "seed": "Dread Seed"
+    }
+  }
+

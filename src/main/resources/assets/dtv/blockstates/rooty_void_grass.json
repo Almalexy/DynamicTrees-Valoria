@@ -1,0 +1,14 @@
+{
+    "multipart": [
+      {
+        "apply": {
+          "model": "valoria:block/void_grass"
+        }
+      },
+      {
+        "apply": {
+          "model": "dynamictrees:block/roots"
+        }
+      }
+    ]
+  }
