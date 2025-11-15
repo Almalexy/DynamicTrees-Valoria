@@ -1,0 +1,4 @@
+{
+    "primitive_soil": "valoria:void_grass",
+    "acceptable_soils": [ "dirt_like" ]
+  }

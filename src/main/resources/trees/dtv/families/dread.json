@@ -1,0 +1,8 @@
+{
+    "common_species": "dtv:dread",
+    "primitive_log": "valoria:dread_log",
+    "primitive_stripped_log": "valoria:stripped_dread_log",
+    "max_branch_radius": 24,
+    "generate_surface_root": true
+  }
+

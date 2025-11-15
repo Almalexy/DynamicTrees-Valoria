@@ -1,0 +1,14 @@
+{
+  "block.dtv.shade_vines": "Shade Vines",
+  "block.dtv.shade_vines_plant": "Shade Vines",
+  "item.dtv.shade_vines_item": "Shade Vines",
+  "item.dtv.shade_seed": "Shade Fruit",
+  "item.dtv.elder_shade_seed": "Elder Shade Fruit",
+  "item.dtv.dread_seed": "Dread Fruit",
+  "item.dtv.eldritch_seed": "Eldritch Fruit",
+  "species.dtv.shade": "Shade",
+  "species.dtv.elder_shade": "Elder Shade",
+  "species.dtv.dread": "Dread",
+  "species.dtv.eldritch": "Eldritch"
+}
+

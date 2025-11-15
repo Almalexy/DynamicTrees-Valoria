@@ -1,0 +1,11 @@
+[
+  {
+    "select": { "namespace": "valoria" },
+    "cancellers": [
+      { "type": "tree", "namespace": "minecraft" },
+      { "type": "rooted_tree", "namespace": "minecraft" },
+      { "type": "tree", "namespace": "valoria" },
+      { "type": "rooted_tree", "namespace": "valoria" }
+    ]
+  }
+]

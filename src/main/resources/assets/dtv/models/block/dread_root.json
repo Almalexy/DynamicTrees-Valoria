@@ -1,0 +1,7 @@
+{
+    "loader": "dynamictrees:surface_root",
+    "textures": {
+      "bark": "valoria:block/dread_log"
+    }
+  }
+

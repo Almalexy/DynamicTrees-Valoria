@@ -1,0 +1,7 @@
+{
+    "parent": "dynamictrees:item/branch",
+    "textures": {
+      "bark": "valoria:block/eldritch_log",
+      "rings": "valoria:block/eldritch_log_top"
+    }
+  }
