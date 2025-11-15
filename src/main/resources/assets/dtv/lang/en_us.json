@@ -1,14 +1,21 @@
 {
+  "block.dtv.dread_branch": "Dread Branch",
+  "block.dtv.elder_shade_branch": "Elder Shade Branch",
+  "block.dtv.eldritch_branch": "Eldritch Branch",
+  "block.dtv.shade_branch": "Shade Branch",
+
+  "species.dtv.dread": "Dread",
+  "species.dtv.elder_shade": "Elder Shade",
+  "species.dtv.eldritch": "Eldritch",
+  "species.dtv.shade": "Shade",
+
+  "item.dtv.dread_seed": "Dread Seed",
+  "item.dtv.elder_shade_seed": "Elder Shade Seed",
+  "item.dtv.eldritch_seed": "Eldritch Seed",
+  "item.dtv.shade_seed": "Shade Seed",
+
   "block.dtv.shade_vines": "Shade Vines",
   "block.dtv.shade_vines_plant": "Shade Vines",
-  "item.dtv.shade_vines_item": "Shade Vines",
-  "item.dtv.shade_seed": "Shade Fruit",
-  "item.dtv.elder_shade_seed": "Elder Shade Fruit",
-  "item.dtv.dread_seed": "Dread Fruit",
-  "item.dtv.eldritch_seed": "Eldritch Fruit",
-  "species.dtv.shade": "Shade",
-  "species.dtv.elder_shade": "Elder Shade",
-  "species.dtv.dread": "Dread",
-  "species.dtv.eldritch": "Eldritch"
+  "item.dtv.shade_vines_item": "Shade Vines"
 }
-
+  
